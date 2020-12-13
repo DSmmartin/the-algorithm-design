@@ -1,0 +1,10 @@
+name: the-algorithm-design
+channels:
+  - conda-forge
+  - pytorch
+
+dependencies:
+  - python=3.9.1
+  - pip=20.2.3
+  - pylint=2.6.0
+  - conda-forge::numpy=1.19.4
